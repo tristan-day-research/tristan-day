@@ -1,4 +1,12 @@
-### Hi there 👋
+
+I am a research scientist doing work in machine learning and neursocience.
+
+My interests center around interdisciplinary cognitive science - especially neuroscience, AI, consciousness, language, and the philosophy that surrounds those topics.
+I may consider a PhD in future years. Currently I am finishing a Master's Degree in Comptuer Science with a machine learning focus which will be complete June 2023, and am actively seeking employment.  
+
+Some of my academic inspirations are Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky.
+
+I also like travel, dancing, and music.
 
 <!--
 **sai-kiersarsky/sai-kiersarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
