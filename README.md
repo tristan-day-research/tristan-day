@@ -1,8 +1,9 @@
 
-I am a research scientist doing work in machine learning and neursocience.
+I am a research scientist doing work in machine learning and computational neursocience. Currently I am finishing a Master's Degree in Comptuer Science with a machine learning focus which will be complete June 2023, and am actively seeking employment.  
 
-My interests center around interdisciplinary cognitive science - especially neuroscience, AI, consciousness, language, and the philosophy that surrounds those topics.
-I may consider a PhD in future years. Currently I am finishing a Master's Degree in Comptuer Science with a machine learning focus which will be complete June 2023, and am actively seeking employment.  
+My machine learning interests are neural representation, data clustering, and data analysis. I am equally invested in machine learning theory and practice.
+
+In computational neuroscience I am participating in an international collaboration doing original research on how changes in the structure of the brain affect during the aging process affects neural dynamics. We are using and developing a novel methodology known as Connectome Harmonics.
 
 Some of my academic inspirations are Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky.
 
