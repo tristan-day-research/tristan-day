@@ -1,5 +1,5 @@
 
-I am a research scientist doing work in machine learning and computational neursocience. Currently I am finishing a Master's Degree in Comptuer Science with a machine learning focus which will be complete June 2023. I am actively seeking employment.  
+I am a research scientist doing work in machine learning and computational neursocience. Currently I am finishing a Master's Degree in Computer Science with a machine learning focus which will be complete June 2023. I am actively seeking employment.  
 
 My machine learning interests are neural representation, data clustering, and data analysis. I am equally invested in machine learning theory and practice.
 
