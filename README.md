@@ -4,4 +4,5 @@ In computational neuroscience I am participating in an international collaborati
 
 Some of my academic inspirations are Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky.
 
-Other interests include meditatation, consciousnesness research, philosophy, music, and travel. So far I've been to 16 countries.
+Other interests include meditation, consciousness research, philosophy, music, and travel. So far I've been to 16 countries.
+
