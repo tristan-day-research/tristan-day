@@ -1,4 +1,4 @@
-I am a research scientist doing work in AI and computational neursocience. My machine learning interests include neural representation, neuro-symbolic systems, and data analysis. I am equally invested in machine learning theory and practice.
+I am a research scientist doing work in AI and computational neursocience. My machine learning interests include neural representation, neuro-symbolic systems, AI safetey and ethics, and data analysis. I am equally invested in machine learning theory and practice.
 
 In computational neuroscience I am participating in an international collaboration doing original research on how changes in the structure of the brain affect during aging affects neural dynamics. We are using a novel methodology known as Connectome Harmonics.
 
