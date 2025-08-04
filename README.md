@@ -1,8 +1,22 @@
-I am a research scientist doing work in AI and computational neursocience. My machine learning interests include neural representation, neuro-symbolic systems, AI safetey and ethics, and data analysis. I am equally invested in machine learning theory and practice.
+👋 Hi, I'm Tristan.
 
-In computational neuroscience I am participating in an international collaboration doing original research on how changes in the structure of the brain affect during aging affects neural dynamics. We are using a novel methodology known as Connectome Harmonics.
+I’m a research scientist and machine learning engineer with experience in both AI and computational neuroscience.
 
-Some of my academic inspirations are Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky.
+My core interests and skills include:
 
-Other interests include meditation, consciousness research, philosophy, music, and travel. So far I've been to 16 countries.
+- Novel approaches in machine learning
+- Neuro-symbolic systems
+- AI safety and ethics
+- Data analysis and interpretability
 
+I’m equally engaged in theory and practice, developing systems while exploring their foundations.
+
+Currently, I’m part of an international collaboration studying how age-related structural changes in the brain influence neural dynamics, using a novel approach called Connectome Harmonics.
+
+🧠 Inspirations & Interests
+I draw inspiration from thinkers like Joscha Bach, Douglas Hofstadter, Selen Atasoy, and Leonid Perlovsky. 
+
+Outside of research, I explore meditation, consciousness, philosophy, and music. I've traveled to 16 countries and counting.
+
+📁 About This GitHub
+Not all of my work is uploaded here—some is proprietary or in-progress—but selected public projects reflect my active research and interests. Feel free to reach out for more.
