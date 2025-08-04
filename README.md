@@ -30,4 +30,4 @@ Outside of research, I explore meditation, consciousness, philosophy, and music.
 
 This GitHub showcases a subset of my work. Some projects are proprietary, unpublished, or in progress—but the public repositories here reflect areas of active research and technical interest.  
 
-**Feel free to reach out with an opportunity or colaboration idea!** Contact me via [email](tristan.julian.day@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tristan-day-research/).
+**Feel free to reach out with an opportunity or colaboration idea!** Contact me via [email](mailto:tristan.julian.day@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/tristan-day-research/).
