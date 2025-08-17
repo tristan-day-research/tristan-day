@@ -7,6 +7,7 @@ I’m a research scientist and machine learning engineer with experience in both
 - Novel approaches in machine learning for real-world impact
 - AI safety and ethics
 - Neuro-symbolic systems
+- Computational Neuroscience
 - Data analysis and interpretability
 
 ### 🔬 Current Research & Projects
